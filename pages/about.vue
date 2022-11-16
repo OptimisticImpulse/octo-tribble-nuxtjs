@@ -2,11 +2,7 @@
   <div>
   <NuxtLink to="/">Home</NuxtLink><br>
   <NuxtLink to="/about">About</NuxtLink><br>
-This is the home  page on netlify. this is index.vue
-
-<br>
-
-<Searchbar></Searchbar>
+This is the about page on netlify.
 
   </div>
 </template>
