@@ -1,0 +1,16 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\jocelestin\\\\Documents\\\\School\\\\Server Learning\\\\NuxtJS\\\\real-world-nuxt\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_0187d7d2"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\jocelestin\\\\Documents\\\\School\\\\Server Learning\\\\NuxtJS\\\\real-world-nuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_213fb297"
+  }
+]
